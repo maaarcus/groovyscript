@@ -1,5 +1,5 @@
 #!/usr/bin/groovy
-package io.abc;
+package org.foo;
 
 import hudson.model.Result
 import jenkins.model.CauseOfInterruption.UserInterruption
