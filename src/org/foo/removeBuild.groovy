@@ -1,3 +1,6 @@
+#!/usr/bin/groovy
+package io.abc;
+
 import hudson.model.Result
 import jenkins.model.CauseOfInterruption.UserInterruption
 
